@@ -1,0 +1,12 @@
+[package]
+name = "pitchplay"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27"
+egui = "0.27"
+midir = "0.9"
+rand = "0.8"
+crossbeam-channel = "0.5"
+image = "0.25"
